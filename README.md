@@ -2,7 +2,10 @@
 
 Due 03/24/18 at 11:59:59PM.  
 Late submissions are subject to a 10% late penalty.  
+
 ## Instructions
+
+Reading: Thinking in C++ Chapters 1-5
 
 You may work individually or up to a team of 3 for this assigment.
 
